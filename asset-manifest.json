@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Dhirendra-Sisodiya/static/css/main.c9c58d6f.css",
+    "main.js": "/Dhirendra-Sisodiya/static/js/main.cac049ad.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Dhirendra-Sisodiya/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Profile.png": "/Dhirendra-Sisodiya/static/media/Profile.78b7d493cdff735dbc11.png",
+    "static/media/Royal.jpg": "/Dhirendra-Sisodiya/static/media/Royal.68cc8c3dd75d62e93013.jpg",
+    "static/media/Ichiraku.jpg": "/Dhirendra-Sisodiya/static/media/Ichiraku.baede6f27fcb062126d4.jpg",
+    "static/media/Resume.pdf": "/Dhirendra-Sisodiya/static/media/Resume.c109228bcdedfaa82e24.pdf",
+    "static/media/Text.jpg": "/Dhirendra-Sisodiya/static/media/Text.e6c6fc4291786dc8bee4.jpg",
+    "static/media/logo.png": "/Dhirendra-Sisodiya/static/media/logo.5f136fc517ea74796402.png",
+    "index.html": "/Dhirendra-Sisodiya/index.html",
+    "main.c9c58d6f.css.map": "/Dhirendra-Sisodiya/static/css/main.c9c58d6f.css.map",
+    "main.cac049ad.js.map": "/Dhirendra-Sisodiya/static/js/main.cac049ad.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Dhirendra-Sisodiya/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9c58d6f.css",
+    "static/js/main.cac049ad.js"
+  ]
+}
